@@ -1,0 +1,29 @@
+{
+  "name": "workday-to-calendar",
+  "version": "1.0.0",
+  "description": "Convert the All Workers Time Off excel into an HTML with calendars",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nohorbee/workday-to-calendar.git"
+  },
+  "keywords": [
+    "workday",
+    "reports",
+    "management",
+    "calendar",
+    "PTO",
+    "Timeoff",
+    "Vacations"
+  ],
+  "author": "nohorbee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nohorbee/workday-to-calendar/issues"
+  },
+  "homepage": "https://github.com/nohorbee/workday-to-calendar#readme",
+  "preferGlobal": true,
+  "bin": "convert.js"
+}
